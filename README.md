@@ -1,14 +1,18 @@
-## Hi there 👋
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=SHEKH%20MD%20NAYEM%20YOUSUF&fontSize=40&fontColor=4287f5&desc=Web%20Developer&descAlign=50&animation=twinkling&rotate=0&textBg=false" />
 </p>
+
+---
 
 <p align="center" >
   
   <img src="https://streak-stats.demolab.com?user=smdnayem&theme=dracula&border_radius=5" alt="GitHub Streak" />
 
 </p>
+
+---
 
 <!--
 **smdnayem/smdnayem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
