@@ -6,11 +6,21 @@
 
 ---
 
-<p align="center" >
-  
-  <img src="https://streak-stats.demolab.com?user=smdnayem&theme=dracula&border_radius=5" alt="GitHub Streak" />
+**🗄️GitHub Streak**
 
+
+
+<p align="center" >
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=smdnayem" alt="GitHub Streak" />
 </p>
+
+<!--
+
+<p align="center" >
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=smdnayem&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+-->
 
 ---
 
