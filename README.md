@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+---
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=smdnayem&theme=dracula&border_radius=5" alt="GitHub Streak" /></a>
+---
 <!--
 **smdnayem/smdnayem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
