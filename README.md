@@ -1,7 +1,7 @@
 ## Hi there 👋
 ---
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=SHEKH%20MD%20NAYEM%20YOUSUF%20%7C%20Web%20Developer&fontSize=36&fontColor=ffffff&animation=fadeIn](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=SHEKH%20MD%20NAYEM%20YOUSUF&fontSize=40&fontColor=4287f5&desc=Web%20Developer&descAlign=50&animation=twinkling&rotate=0&textBg=false)" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=SHEKH%20MD%20NAYEM%20YOUSUF&fontSize=40&fontColor=4287f5&desc=Web%20Developer&descAlign=50&animation=twinkling&rotate=0&textBg=false" />
 </p>
 ---
 <p align="center" >
